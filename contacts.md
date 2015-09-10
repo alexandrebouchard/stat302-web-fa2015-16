@@ -32,5 +32,5 @@ y.zhai AT stat.ubc.ca for Vincent and r.hsia AT alumni.ubc.ca for Richard.
 
 **TA office hours:** 
 
-- Crystal: Tuesday 11-12 in ESB 3125
+- Crystal: Monday 13-14 in ESB 3174
 - Jie: Friday 10-11 in ESB 3174
