@@ -27,7 +27,7 @@ y.zhai AT stat.ubc.ca for Vincent and r.hsia AT alumni.ubc.ca for Richard.
 
 **Office hours:** 
 <address>
-*Time and Location:*  Tuesday 11:00 -12:00  in ESB 3125 by Crystal,
+*Time and Location:*  Monday  13:00 -14:00  in ESB 3174 by Crystal,
 Friday 10:00-11:00 in ESB 3174 by Jie <br/>
 
 </address>
