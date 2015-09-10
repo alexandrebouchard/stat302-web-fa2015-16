@@ -17,8 +17,9 @@ Course Information
 </address>
 
 <address>
-**TA:** TBA<br/>
-**Email:** TBA
+**TA:** Jie, Crystal, Vincent, Richard<br/>
+**Email:**  jie.cui AT stat.ubc.ca for Jie,  tingting.zhao AT stat.ubc.ca  for Crystal,
+y.zhai AT stat.ubc.ca for Vincent and r.hsia AT alumni.ubc.ca for Richard. 
 </address>
 
 
