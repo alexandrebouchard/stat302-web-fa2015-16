@@ -9,7 +9,13 @@ Course Information
 
 **Time:** Mon Wed Fri 11-12
 
-**Location:**  Room 4 of Woodward (Instructional Resources Centre-IRC). 
+**Location:** WOODWARD Room 4
+
+
+Contacting instructors and TAs
+===============================
+
+**Piazza:** Main point of contact for questions and discussions, enroll [here](http://piazza.com/ubc.ca/winterterm12015/stat302)
 
 <address>
 **Instructor:** Alexandre Bouchard-Côté<br/>
@@ -17,17 +23,14 @@ Course Information
 </address>
 
 <address>
-**TA:** Jie, Crystal, Vincent, Richard<br/>
+**TAs:** Jie, Crystal, Vincent, Richard<br/>
 **Email:**  jie.cui AT stat.ubc.ca for Jie,  tingting.zhao AT stat.ubc.ca  for Crystal,
 y.zhai AT stat.ubc.ca for Vincent and r.hsia AT alumni.ubc.ca for Richard. 
 </address>
 
+**Instructor office hour:**  Wed 3-4 in ESB 3125
 
-**Piazza:** For questions and discussions, enroll [here](http://piazza.com/ubc.ca/winterterm12015/stat302)
+**TA office hours:** 
 
-**Office hours:** 
-<address>
-*Time and Location:*  Monday  13:00 -14:00  in ESB 3174 by Crystal,
-Friday 10:00-11:00 in ESB 3174 by Jie <br/>
-
-</address>
+- Crystal: Monday 13-14 in ESB 3174
+- Jie: Friday 10-11 in ESB 3174
