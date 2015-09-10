@@ -9,7 +9,7 @@ Course Information
 
 **Time:** Mon Wed Fri 11-12
 
-**Location:** TBA
+**Location:**  Room 4 of Woodward (Instructional Resources Centre-IRC). 
 
 <address>
 **Instructor:** Alexandre Bouchard-Côté<br/>
