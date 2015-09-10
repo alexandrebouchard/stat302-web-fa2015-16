@@ -26,6 +26,7 @@ Course Information
 
 **Office hours:** 
 <address>
-*Time:* TBA <br/>
-*Location:* ESB 3125
+*Time and Location:*  Tuesday 11:00 -12:00  in ESB 3125 by Crystal,
+Friday 10:00-11:00 in ESB 3174 by Jie <br/>
+
 </address>
