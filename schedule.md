@@ -15,5 +15,7 @@ Schedule (subject to change!)
 
 - SR stands for Sheldon Ross, i.e. the textbook (8th or 9th editions).
 
-<table>  <tr>    <td><b>Meeting</b></td>    <td><b>Notes</b></td>    <td><b>Topics</b></td>    <td><b>Readings</b></td>    <td><b>Homework (out)</b></td>    <td><b>Homework (due)</b></td>  </tr>  <tr>    <td>9/9/15</td>    <td></td>    <td>Overview, motivation. </td>    <td>SR 2.2</td>    <td></td>    <td></td>  </tr><!-- schedule --></table>
+<table>  <tr>    <td><b>Meeting</b></td>    <td><b>Notes</b></td>    <td><b>Topics</b></td>    <td><b>Readings</b></td>    <td><b>Homework (out)</b></td>    <td><b>Homework (due)</b></td>  </tr>  <tr>    <td>9/9/15</td>    <td></td>    <td>Overview, motivation. </td>    <td>SR 2.2</td>    <td></td>    <td></td>  </tr>  <tr>    <td>9/11/15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>9/14/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> <tr>    <td>9/14/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr>  <td>9/16/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> <td>9/18/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr><!-- schedule --></table>
+
+
 
