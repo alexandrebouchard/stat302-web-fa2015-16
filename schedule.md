@@ -15,43 +15,5 @@ Schedule (subject to change!)
 
 - SR stands for Sheldon Ross, i.e. the textbook (8th or 9th editions).
 
-<table>  <tr>    <td><b>Meeting</b></td>    <td><b>Notes</b></td>    <td><b>Topics</b></td>    <td><b>Readings</b></td>    <td><b>Homework (out)</b></td>    <td><b>Homework (due)</b></td>  </tr>  
-<tr>    <td>9/9/15</td>    <td></td>    <td>Overview, motivation. </td>    <td>SR 2.2</td>    <td></td>    <td></td>  </tr>  <tr>    <td>9/11/15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  
-<tr>    <td>9/14/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>9/16/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>9/18/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>9/21/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>9/23/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>9/25/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>9/28/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>9/30/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> <td>10/02/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>10/05/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>10/07/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>10/09/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>10/12/15</td>    <td>No Class, Thanksgiving Day</td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>10/14/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>10/16/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>10/19/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>10/21/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>10/23/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>10/26/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>10/28/15</td>    <td>Tentative Midterm Day</td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>10/30/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>11/02/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>11/04/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>11/06/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr>
-<tr> <td>11/09/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>11/11/15</td>    <td>No Class Rememberance Day</td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>11/13/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>11/16/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>11/18/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>11/20/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>11/23/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>11/25/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>11/27/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>11/30/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>12/02/15</td>    <td></td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr> 
-<tr> <td>12/04/15</td>    <td>Last Day of Class</td>    <td> </td>    <td></td>    <td></td>    <td></td>  </tr><!-- schedule --></table>
- 
-
+<table>  <tr>    <td><b>Meeting</b></td>    <td><b>Notes</b></td>    <td><b>Topics</b></td>    <td><b>Readings</b></td>    <td><b>Homework (out)</b></td>    <td><b>Homework (due)</b></td>  </tr>  <tr>    <td>09-09-15</td>    <td></td>    <td>Overview, motivation. </td>    <td>SR 2.2</td>    <td></td>    <td></td>  </tr>  <tr>    <td>09-11-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>09-14-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>09-16-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>09-18-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>09-21-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>09-23-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>09-25-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>09-28-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>09-30-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>10-02-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>10-05-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>10-07-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>10-09-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>10-12-15</td>    <td>No Class Thanksgiving Day</td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>10-14-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>10-16-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>10-19-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>10-21-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>10-23-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>10-26-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>10-28-15</td>    <td>Tentative Midterm Day</td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>10-30-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>11-02-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>11-04-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>11-06-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>11-09-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>11-11-15</td>    <td>No Class Rememberance Day</td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>11-13-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>11-16-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>11-18-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>11-20-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>11-23-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>11-25-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>11-27-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>11-30-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>12-02-15</td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr>  <tr>    <td>12-04-15</td>    <td>Last Day of Class</td>    <td></td>    <td></td>    <td></td>    <td></td>  </tr><!-- schedule --></table>
 
